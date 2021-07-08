@@ -3,6 +3,8 @@
 
 Adds a non-price-gouged Nintendo Switch to your Amazon cart, buys it, and emails you updates.
 
+Requires Selenium
+
 Written during summer of 2020 during COVID-19 Price-Gouging nonsense.
 
 Run following line in bash terminal for updated log file:
