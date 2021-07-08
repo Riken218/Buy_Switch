@@ -5,7 +5,7 @@ import datetime
 import time
 # Run following line in command line. "-u" is to unbuffer outputs to update
 # txt file in real time.
-# python3.7 -u /home/richarjr/programs/add_switch_to_cart.py > /home/richarjr/switch_running_time.txt &
+# python3.7 -u /directory/add_switch_to_cart.py > /directory/switch_running_time.txt &
 
 # Find & Replace "your.email@outlook.com" and "Password" 
 # with your Outlook email address and Amazon password respectively.
